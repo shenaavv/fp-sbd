@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  /* This creates the dark blue/purple gradient from your design */
+  background: linear-gradient(135deg, #2d3250, #424669);
+  color: #f4efeb; /* A light, soft default text color */
+}
